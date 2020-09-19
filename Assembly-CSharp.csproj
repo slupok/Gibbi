@@ -58,6 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\8K Skybox Pack Free\Example Scenes\Script\RotateCamera.cs" />
      <Compile Include="Assets\Scripts\Core\Game.cs" />
      <Compile Include="Assets\Scripts\Core\GameProxy.cs" />
      <Compile Include="Assets\Scripts\Core\LevelConfig.cs" />
@@ -79,6 +80,7 @@
      <Compile Include="Assets\Scripts\View\SelectLevelView.cs" />
      <Compile Include="Assets\Scripts\View\StartGameView.cs" />
      <Compile Include="Assets\Scripts\View\ToggleLevel.cs" />
+     <None Include="Assets\8K Skybox Pack Free\ReadMe.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/My Games/Gibbi/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

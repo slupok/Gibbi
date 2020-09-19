@@ -36,6 +36,7 @@ public class OrbitCamera : MonoBehaviour
         Quaternion rotation = Quaternion.Euler(-_rotY, _rotX, 0);
         transform.position = _target.position - (rotation * _offset);
         transform.LookAt(_target); 
+        transform.Rotate(-7,0,0);//поворот чуть вверх, чтобы персонаж был снизу
     }
 
     public void SetTarget(Transform target)

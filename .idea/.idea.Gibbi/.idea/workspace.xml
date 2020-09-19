@@ -20,17 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="990527f8-100d-4c2f-926e-d805d7441103" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/CameraMoving.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/CameraMoving.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +87,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/Move.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RelativeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +152,7 @@
       <workItem from="1594501775320" duration="121000" />
       <workItem from="1599772336255" duration="4423000" />
       <workItem from="1599814726528" duration="9476000" />
+      <workItem from="1600460090217" duration="1048000" />
     </task>
     <servers />
   </component>
