@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BounceAction : BaseAction,IRotate
+public class BounceAction : InteractionObject,IRotate
 {
     [SerializeField]private float _rotateStep = 1;
     public void RotateLeft()
@@ -14,21 +14,20 @@ public class BounceAction : BaseAction,IRotate
     {
         transform.Rotate(0,_rotateStep,0);
     }
-    public override void StartAction(HudView view)
+    public override void StartInteraction(HudView view, OrbitCamera camera)
     {
-        _isActive = true;
-        view?.ActiveOpen(Sprite);
+        if(!CameraPosition)
+            return;
+        camera.SetCamera(CameraPosition.position, this.transform);
+        view.ActiveOpen(Sprite);
     }
 
-    public override void StopAction(HudView view)
+    public override void StopInteraction(HudView view)
     {
-        _isActive = false;
-        view?.ActiveClose();
+        view.ActiveClose();
     }
-    private void Update()
+    public override void UpdateInput()
     {
-        if(!_isActive)
-            return;
         if (Input.GetKey(KeyCode.E))
         {
             RotateRight();

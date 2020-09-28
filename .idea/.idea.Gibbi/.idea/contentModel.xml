@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Slupo\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Slupo\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Gibbi.-1207587971.00" t="ExcludeRecursive" />
-    <e p="D:\My Games\Gibbi" t="IncludeRecursive">
+    <e p="C:\Slupoke\Gibbi" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Resourse" t="Include">
+          <e p="Skybox Pack" t="Include">
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+          <e p="Природа" t="Include">
+            <e p="Toon Forest free set" t="Include">
+              <e p="Read me(En.Jp).txt" t="Include" />
+              <e p="sqript" t="Include">
+                <e p="custom.shader" t="Include" />
+                <e p="custom2.shader" t="Include" />
+                <e p="custom3.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="Core" t="Include">
             <e p="Game.cs" t="Include" />
@@ -14,23 +27,22 @@
           </e>
           <e p="Object" t="Include">
             <e p="ActionObject" t="Include">
-              <e p="BaseAction.cs" t="Include" />
               <e p="BounceAction.cs" t="Include" />
               <e p="GunAction.cs" t="Include" />
+              <e p="InteractionObject.cs" t="Include" />
+              <e p="Player" t="Include">
+                <e p="Player.cs" t="Include" />
+                <e p="RelativeMovement.cs" t="Include" />
+              </e>
               <e p="StartGunAction.cs" t="Include" />
             </e>
             <e p="Burrow.cs" t="Include" />
             <e p="Chesse.cs" t="Include" />
+            <e p="InputController.cs" t="Include" />
             <e p="LaserManager.cs" t="Include" />
-            <e p="Player" t="Include">
-              <e p="CameraController.cs" t="Include" />
-              <e p="Move.cs" t="Include" />
-            </e>
-            <e p="PlayerController.cs" t="Include" />
+            <e p="OrbitCamera.cs" t="Include" />
             <e p="Wall.cs" t="Include" />
           </e>
-          <e p="OrbitCamera.cs" t="Include" />
-          <e p="RelativeMovement.cs" t="Include" />
           <e p="View" t="Include">
             <e p="ActiveView.cs" t="Include" />
             <e p="HudView.cs" t="Include" />
@@ -45,5 +57,7 @@
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\Slupo\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Slupo\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_Gibbi.-100785184.00" t="ExcludeRecursive" />
   </component>
 </project>

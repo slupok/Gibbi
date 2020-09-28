@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StartGunAction : BaseAction,IGun,IRotate
+public class StartGunAction : InteractionObject,IGun,IRotate
 {
     public GameObject Chesse;
     public Transform ShotPos;
@@ -23,8 +23,8 @@ public class StartGunAction : BaseAction,IGun,IRotate
     public void PathLine()
     {
         Vector3 forward = transform.TransformDirection(Vector3.forward);
-        LaserManager.RemoveOldLine();
-        LaserManager.CalcLine(ShotPos.position,forward);
+        LaserManager?.RemoveOldLine();
+        LaserManager?.CalcLine(ShotPos.position,forward);
         //Debug.DrawRay(ShotPos.position, forward, Color.yellow);
         
     }
@@ -53,35 +53,42 @@ public class StartGunAction : BaseAction,IGun,IRotate
         transform.Rotate(0,_rotateStep,0);
     }
 
-    public override void StartAction(HudView view)
+
+    public override void StartInteraction(HudView view, OrbitCamera camera)
     {
-        _isActive = true;
-        view?.ActiveOpen(Sprite);
+        if(!CameraPosition)
+            return;
+        camera.SetCamera(CameraPosition.position, this.transform);
+        view.ActiveOpen(Sprite);
     }
 
-    public override void StopAction(HudView view)
+    public override void StopInteraction(HudView view)
     {
-        _isActive = false;
-        view?.ActiveClose();
+        view.ActiveClose();
     }
 
     public void ActiveChesse( bool flag)
     {
         _activeChesse = flag;
     }
+
     private void Update()
+    {
+        PathLine();
+    }
+    public override void UpdateInput()
     {
         if (Chesse == null)
         {
             return;
         }
-        PathLine();
-        if(!_isActive)
-            return;
+        //PathLine();
+
         if (Input.GetKey(KeyCode.E))
         {
             RotateRight();
         }
+        
         else if (Input.GetKey(KeyCode.Q))
         {
             RotateLeft();
@@ -92,4 +99,5 @@ public class StartGunAction : BaseAction,IGun,IRotate
             Shot();
         }
     }
+
 }

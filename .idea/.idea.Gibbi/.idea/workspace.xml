@@ -20,10 +20,451 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="990527f8-100d-4c2f-926e-d805d7441103" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-10.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-10.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-11.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-11.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-12.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-12.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-3.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-3.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-4.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-4.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-5.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-5.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-6.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-6.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-7.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-7.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-8.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-8.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-9.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Example Scenes/sky-9.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/ReadMe.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-10.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-10.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-11.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-11.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-12.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-9.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Material/sky-9.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-11.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-11.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-9.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/Materials/sky-9.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/8K Skybox Pack Free/Skyboxes/Texture/sky-9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Animation/Player Visual.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Animation/Player Visual.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Animation/RunAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Animation/RunAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/Ice blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/Ice blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones eary yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones eary yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones leafs more.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones leafs more.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones leafs.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones leafs.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/dirt stones.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/granit grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/granit grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/grey dirt stones.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/grey dirt stones.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/ice.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/ice.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/lava.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/lava.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/leafs dark.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/leafs dark.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/leafs.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/leafs.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/sand stones.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Materials/sand stones.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/Ice blue.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/Ice blue.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones eary yellow.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones eary yellow.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones leafs more.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones leafs more.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones leafs.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones leafs.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/dirt stones.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/granit grass.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/granit grass.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/grey dirt stones.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/grey dirt stones.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/ice.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/ice.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/lava.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/lava.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/leafs dark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/leafs dark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/leafs.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/leafs.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/sand stones.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Ground/Textures/sand stones.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Images/Gun-Helper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Images/Gun-Helper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Images/bounce_helper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Images/bounce_helper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Materials/Ground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Materials/Ground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/Materials/untitled.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/Materials/untitled.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Burrow/untitled.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/Materials/cheese.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/Materials/cheese.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/CHeese/cheese.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Materials/Player-4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/Player/Player-4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/Materials/untitled-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/StartGun/untitled-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.mtl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Bounce.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Materials/Bounce.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Materials/Bounce.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Materials/BounceMaterial.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Models/bounce/Materials/BounceMaterial.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Border/Border.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Bounce.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Bounce/Bounce .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Bounce/Bounce .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Cheese.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Cheese/cheese.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Cheese/cheese.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Levels View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Levels View/LevelToggle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Levels View/LevelToggle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Levels View/Select Level View.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Levels View/Select Level View.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Line.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Line.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Camera.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Camera.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Flag.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Flag.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/Boots.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/Boots.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/Head.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/Head.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/LeftHand.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/LeftHand.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/RightHand.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/RightHand.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/body.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/Player/component/body.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/CheeseGun.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/CheeseGun.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/CheeseGun.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/CheeseGun.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/StartGun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/StartGun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/StartRocket 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/StartGunAttack/StartRocket 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Prefabs/burrow/Burrow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BaseAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BaseAction.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Player/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Player/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Player/Move.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Player/Move.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RelativeMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RelativeMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Rock Diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Rock Diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Rock.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Rock.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Terrain Diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Terrain Diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Terrain.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Terrain.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Tile Diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Tile Diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Tile.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Tile.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Wood  Diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Wood  Diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Wood .mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize Wood .mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Ambient_Occlusion.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Ambient_Occlusion.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Base_Color.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Base_Color.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Height.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/Vol_34_2_Height.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/vol_2_3_Base_Color.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Materials/vol_2_3_Base_Color.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Rock Texture.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Rock Texture.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Terrain Texture.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Terrain Texture.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Tile.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Tile.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Wood Texture.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylize Wood Texture.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_19_4_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_23_1_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_34_2_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Ambient_Occlusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Ambient_Occlusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Base_Color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Base_Color.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Height.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Height.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Roughness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Stylized Grass Texture/Textures/vol_2_3_Roughness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer 1.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer 1.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer 2.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer 2.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer.terrainlayer" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +475,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Burrow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RelativeMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ToggleLevel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/StartGameView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ActiveView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/HudView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/SelectLevelView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/LevelConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/GameProxy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Player/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Player/Move.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/LaserManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Интехрос/PlayGround/Assets/Scripts/UI/LevelMenu/CreateListLevel.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Chesse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/GameProxy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/LevelConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/SelectLevelView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/HudView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PlayGround/Assets/Editor/TaskEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ActiveView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/StartGameView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ToggleLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Burrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Wall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Chesse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/LaserManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,11 +521,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/View/SelectLevelView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/View/StartGameView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/View/ToggleLevel.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/Move.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RelativeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BaseAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editortest.cs" />
+        <option value="$PROJECT_DIR$/Assets/EditorIcons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/OrbitCamera.cs" />
       </list>
     </option>
   </component>
@@ -111,21 +558,29 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -153,11 +608,17 @@
       <workItem from="1599772336255" duration="4423000" />
       <workItem from="1599814726528" duration="9476000" />
       <workItem from="1600460090217" duration="1048000" />
+      <workItem from="1600673430174" duration="15716000" />
+      <workItem from="1600792429884" duration="1076000" />
+      <workItem from="1600795745051" duration="6296000" />
+      <workItem from="1600887569299" duration="10642000" />
+      <workItem from="1600951765565" duration="7206000" />
+      <workItem from="1601319373210" duration="5489000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
