@@ -12,8 +12,6 @@
             <e p="Toon Forest free set" t="Include">
               <e p="Read me(En.Jp).txt" t="Include" />
               <e p="sqript" t="Include">
-                <e p="custom.shader" t="Include" />
-                <e p="custom2.shader" t="Include" />
                 <e p="custom3.shader" t="Include" />
               </e>
             </e>
@@ -43,12 +41,20 @@
             <e p="OrbitCamera.cs" t="Include" />
             <e p="Wall.cs" t="Include" />
           </e>
+          <e p="UI" t="Include">
+            <e p="PauseMenuManager.cs" t="Include" />
+          </e>
           <e p="View" t="Include">
             <e p="ActiveView.cs" t="Include" />
             <e p="HudView.cs" t="Include" />
             <e p="SelectLevelView.cs" t="Include" />
             <e p="StartGameView.cs" t="Include" />
             <e p="ToggleLevel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="VertexColorFarmAnimals" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="VertexColorUnlit.shader" t="Include" />
           </e>
         </e>
       </e>

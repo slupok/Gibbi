@@ -21,10 +21,7 @@ public class Player : InteractionObject
 
     public override void UpdateInput()
     {
-        //if (Input.GetMouseButton(1))
-        {
-            Movement.UpdateMovement();
-        }
+        Movement.UpdateMovement();
 
         if (Input.GetMouseButtonDown(0) && !EventSystem.current.IsPointerOverGameObject())
         {

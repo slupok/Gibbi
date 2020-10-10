@@ -34,12 +34,12 @@ public class OrbitCamera : MonoBehaviour
     private Vector3 _offset;
     void LateUpdate() 
     {
-        if (Input.GetMouseButtonDown(1))
+        if (Input.GetMouseButtonDown(1) || Input.GetMouseButtonDown(0))
         {
             _isPressedRMB = true;
             Cursor.visible = false;
         }
-        if (Input.GetMouseButtonUp(1))
+        if (Input.GetMouseButtonUp(1) || Input.GetMouseButtonUp(0))
         {
             _isPressedRMB = false;
             Cursor.visible = true;

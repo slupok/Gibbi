@@ -73,6 +73,7 @@
      <Compile Include="Assets\Scripts\Object\LaserManager.cs" />
      <Compile Include="Assets\Scripts\Object\OrbitCamera.cs" />
      <Compile Include="Assets\Scripts\Object\Wall.cs" />
+     <Compile Include="Assets\Scripts\UI\PauseMenuManager.cs" />
      <Compile Include="Assets\Scripts\View\ActiveView.cs" />
      <Compile Include="Assets\Scripts\View\HudView.cs" />
      <Compile Include="Assets\Scripts\View\SelectLevelView.cs" />
@@ -80,9 +81,8 @@
      <Compile Include="Assets\Scripts\View\ToggleLevel.cs" />
      <None Include="Assets\Resourse\Природа\Toon Forest free set\sqript\custom3.shader" />
      <None Include="Assets\Resourse\Skybox Pack\ReadMe.txt" />
-     <None Include="Assets\Resourse\Природа\Toon Forest free set\sqript\custom.shader" />
      <None Include="Assets\Resourse\Природа\Toon Forest free set\Read me(En.Jp).txt" />
-     <None Include="Assets\Resourse\Природа\Toon Forest free set\sqript\custom2.shader" />
+     <None Include="Assets\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Slupoke/Gibbi/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
