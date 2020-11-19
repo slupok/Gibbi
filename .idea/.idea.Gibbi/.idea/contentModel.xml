@@ -8,14 +8,6 @@
           <e p="Skybox Pack" t="Include">
             <e p="ReadMe.txt" t="Include" />
           </e>
-          <e p="Природа" t="Include">
-            <e p="Toon Forest free set" t="Include">
-              <e p="Read me(En.Jp).txt" t="Include" />
-              <e p="sqript" t="Include">
-                <e p="custom3.shader" t="Include" />
-              </e>
-            </e>
-          </e>
         </e>
         <e p="Scripts" t="Include">
           <e p="Core" t="Include">
@@ -23,23 +15,31 @@
             <e p="GameProxy.cs" t="Include" />
             <e p="LevelConfig.cs" t="Include" />
           </e>
+          <e p="Editors" t="Include">
+            <e p="InteractionObjectEditor.cs" t="Include" />
+          </e>
           <e p="Object" t="Include">
             <e p="ActionObject" t="Include">
-              <e p="BounceAction.cs" t="Include" />
-              <e p="GunAction.cs" t="Include" />
-              <e p="InteractionObject.cs" t="Include" />
-              <e p="Player" t="Include">
-                <e p="Player.cs" t="Include" />
-                <e p="RelativeMovement.cs" t="Include" />
+              <e p="NPC" t="Include">
+                <e p="BounceAction.cs" t="Include" />
+                <e p="GunAction.cs" t="Include" />
+                <e p="StartGunAction.cs" t="Include" />
               </e>
-              <e p="StartGunAction.cs" t="Include" />
             </e>
-            <e p="Burrow.cs" t="Include" />
-            <e p="Chesse.cs" t="Include" />
+            <e p="BaseInteractionObject.cs" t="Include" />
             <e p="InputController.cs" t="Include" />
-            <e p="LaserManager.cs" t="Include" />
+            <e p="InteractionObject.cs" t="Include" />
+            <e p="old" t="Include">
+              <e p="Burrow.cs" t="Include" />
+              <e p="Chesse.cs" t="Include" />
+              <e p="LaserManager.cs" t="Include" />
+              <e p="Wall.cs" t="Include" />
+            </e>
             <e p="OrbitCamera.cs" t="Include" />
-            <e p="Wall.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="Player.cs" t="Include" />
+              <e p="RelativeMovement.cs" t="Include" />
+            </e>
           </e>
           <e p="UI" t="Include">
             <e p="PauseMenuManager.cs" t="Include" />

@@ -21,54 +21,107 @@
   <component name="ChangeListManager">
     <list default="true" id="990527f8-100d-4c2f-926e-d805d7441103" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gibbi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/plant_a.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/plant_a.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_00a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_00a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_01a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_01a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_02a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_02a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_03a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_03a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_04a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_04a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_05a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_05a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_06a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_06a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_07a.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Plant_07a.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_00a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_00a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_01a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_01a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_02a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_02a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_03a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_03a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_04a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_04a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_05a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_05a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_06a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_06a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_07a.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Plant_07a.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom2.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom2.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/plant_a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/plant_a.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Fllower_A.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Fllower_A.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Fllower_B.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Fllower_B.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerA01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerA01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerA02_w.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerA02_w.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerB00.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerB00.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerB01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/fllowerB01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/stump_mathroom.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Materials/stump_mathroom.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_00.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_00.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_A_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_00.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_00.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Mushroom_B_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Stump.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Mesh/Stump.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_A_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_A_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_A_08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_A_08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_B_00.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_B_00.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_B_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Fllower_B_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_00.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_00.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_A_02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_00.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_00.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Mushroom_B_02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Stump.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Prefab/Stump.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Read me(En.Jp).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/Read me(En.Jp).txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom3.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/sqript/custom3.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerA2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerA2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerA3_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerA3_w.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerB1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerB1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerB2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/fllowerB2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/stump_mathroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resourse/Природа/Toon Forest free set/texture/stump_mathroom.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/OrbitCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/OrbitCamera.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/New Terrain 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/New Terrain 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/GunAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/GunAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Burrow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Burrow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Chesse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Chesse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/LaserManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/LaserManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Wall.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Object/Wall.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer 1.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer 1.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer 2.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer 2.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain/NewLayer.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/NewLayer.terrainlayer" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +132,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/GameProxy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/LevelConfig.cs" root0="FORCE_HIGHLIGHTING" />
@@ -89,11 +141,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ActiveView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/StartGameView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ToggleLevel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Burrow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Wall.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/Chesse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Object/LaserManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,14 +180,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/OrbitCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Editortest.cs" />
         <option value="$PROJECT_DIR$/Assets/EditorIcons.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/BounceAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/StartGunAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/OrbitCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/RelativeMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/ObjectWithCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObjectWithCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/InteractionObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/NPC/BounceAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/InteractionObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/BaseInteractionObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object/ActionObject/NPC/StartGunAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editors/InteractionObjectEditor.cs" />
       </list>
     </option>
   </component>
@@ -221,6 +276,10 @@
       <workItem from="1601387605055" duration="596000" />
       <workItem from="1601844305233" duration="3971000" />
       <workItem from="1601920120974" duration="1246000" />
+      <workItem from="1603046913411" duration="633000" />
+      <workItem from="1603104717013" duration="4107000" />
+      <workItem from="1604172073091" duration="6980000" />
+      <workItem from="1604259975623" duration="9272000" />
     </task>
     <servers />
   </component>
